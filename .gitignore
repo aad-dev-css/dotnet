@@ -1,0 +1,16 @@
+.vs
+obj
+bin
+packages
+/.vs
+/obj
+/bin
+/customwebapi-calling-customwebapi/.vs
+/customwebapi-calling-customwebapi/bin
+/customwebapi-calling-customwebapi/obj
+/customwebapi-calling-customwebapi/CustomWebApiA/.vs
+/customwebapi-calling-customwebapi/CustomWebApiA/bin
+/customwebapi-calling-customwebapi/CustomWebApiA/obj
+/customwebapi-calling-customwebapi/CustomWebApiB/.vs
+/customwebapi-calling-customwebapi/CustomWebApiB/bin
+/customwebapi-calling-customwebapi/CustomWebApiB/obj
